@@ -4,8 +4,8 @@ body{
     background-color: rgba(255, 221, 0, 0.625);
 }
 .card{
-    margin-top: 300px;
-    margin-bottom: 300px;
+    margin-top: 250px;
+    margin-bottom: 250px;
     max-width: 340px;
     background-color: white;
     padding: 1.5em;
